@@ -1,0 +1,95 @@
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\EssentialTools.dll.config
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\EssentialTools.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\EssentialTools.pdb
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Helpers.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Mvc.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Razor.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Webpages.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Webpages.Razor.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Razor.xml
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Webpages.xml
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Webpages.Razor.xml
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Helpers.xml
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\bin\System.Web.Mvc.xml
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
+C:\Users\ssmit348\Documents\CIS275\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\EssentialTools.dll.config
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\EssentialTools.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\EssentialTools.pdb
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Ninject.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Ninject.Web.Common.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Helpers.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Mvc.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Razor.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.Razor.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\WebActivatorEx.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Ninject.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Ninject.Web.Common.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\Ninject.Web.Mvc.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Razor.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Webpages.Razor.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Helpers.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\bin\System.Web.Mvc.xml
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.dll
+C:\Users\Suzanne\Documents\!!!______ASPNETMVC\EssentialTools\EssentialTools\obj\Debug\EssentialTools.pdb
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\EssentialTools.dll.config
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\EssentialTools.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\EssentialTools.pdb
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\Ninject.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\Ninject.Web.Common.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\Ninject.Web.Mvc.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Helpers.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Mvc.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Razor.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Webpages.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Webpages.Razor.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\WebActivatorEx.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\Ninject.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\Ninject.Web.Common.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\Ninject.Web.Mvc.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Razor.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Webpages.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Webpages.Razor.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Helpers.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\bin\System.Web.Mvc.xml
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\obj\Debug\EssentialTools.dll
+C:\Users\ssmit348\Downloads\EssentialToolsWithUnitTests\EssentialToolsWithUnitTests\EssentialTools\obj\Debug\EssentialTools.pdb
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\EssentialTools.dll.config
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\EssentialTools.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\EssentialTools.pdb
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Ninject.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Ninject.Web.Common.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Ninject.Web.Mvc.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Helpers.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Mvc.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Razor.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Webpages.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\WebActivatorEx.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Ninject.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Ninject.Web.Common.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\Ninject.Web.Mvc.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Razor.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Webpages.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Helpers.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\bin\System.Web.Mvc.xml
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\obj\Debug\EssentialTools.csprojResolveAssemblyReference.cache
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\obj\Debug\EssentialTools.dll
+C:\Users\Kenyarda\Documents\Visual Studio 2015\Projects\EssentialToolsWithDiscounts\EssentialTools\obj\Debug\EssentialTools.pdb
